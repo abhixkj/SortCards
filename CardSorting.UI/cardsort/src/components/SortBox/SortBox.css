@@ -1,0 +1,23 @@
+.RootContainer {
+    margin: 20px;
+  }
+  
+  .SortBox {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+  }
+  
+  .SortContainer {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+  }
+  
+  .Input {
+    margin-right: 10px;
+  }
+  
+
+  
